@@ -1,0 +1,392 @@
+[
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-25 10:26:39",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": null,
+        "correo": null,
+        "fecha": "2023-11-25 12:45:45",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-25 12:46:56",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": null,
+        "correo": null,
+        "fecha": "2023-11-25 12:47:12",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": null,
+        "correo": null,
+        "fecha": "2023-11-25 12:48:43",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-26 00:39:43",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-26 00:41:08",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-26 00:41:19",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-30 23:03:45",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-30 23:07:44",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-30 23:10:38",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-11-30 23:11:56",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-01 01:48:35",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Johan Alexander López Loaiza",
+        "correo": "johan.lopezl@udea.edu.co",
+        "fecha": "2023-12-01 11:26:51",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 19:31:43",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:27:24",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:30:21",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:30:29",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:30:36",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:31:27",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:38:29",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:40:30",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 21:41:37",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:01:48",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:25:33",
+        "aplicacion_usada": "buscado tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:48:06",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:48:10",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:49:53",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:54:44",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:55:14",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:55:23",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 22:57:18",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:16:27",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:17:08",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:17:39",
+        "aplicacion_usada": "buscador tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:19:13",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:23:23",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:23:31",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-03 23:24:51",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "yesica.valenciat@udea.edu.co",
+        "fecha": "2023-12-03 23:26:39",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-04 01:42:29",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-04 18:00:20",
+        "aplicacion_usada": "buscador_tematico"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-04 18:04:11",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-04 18:05:26",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 17:57:37",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 21:21:24",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 21:27:33",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 21:39:42",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 22:26:36",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Cristian Montoya Garces",
+        "correo": "cristian.montoyag1@udea.edu.co",
+        "fecha": "2023-12-05 22:30:08",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 17:11:00",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 20:29:59",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 20:31:41",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 20:36:41",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:06:53",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:32:45",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:34:13",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:35:19",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:37:14",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:50:25",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 22:57:17",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 23:45:23",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 23:47:53",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 23:49:38",
+        "aplicacion_usada": "transcriptor"
+    },
+    {
+        "nombre_usuario": "Yesica Valencia Tobón",
+        "correo": "prueba",
+        "fecha": "2023-12-08 23:52:05",
+        "aplicacion_usada": "transcriptor"
+    }
+]
